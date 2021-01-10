@@ -1,6 +1,6 @@
 1. Create a variable named carname and assign the value Volvo to it.
 
-car_name = "Volvo"
+carname = "Volvo"
 
 2.Create a variable named age and assign the value 22 to it.
   
